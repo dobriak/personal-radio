@@ -1,0 +1,12 @@
+[Default]
+news_dir = news
+
+# https://openai.com 
+[OpenAI]
+organization = your-org-here
+api_key = your-key-here 
+
+# https://elevenlabs.io
+[ElevenLabs]
+api_key = your-key-here
+voice_id = VR6AewLTigWG4xSOukaG
