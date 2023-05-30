@@ -1,12 +1,22 @@
 [Default]
 news_dir = news
+music_stream = url-or-file-to-your-music-stream 
 
 # https://openai.com 
 [OpenAI]
-organization = your-org-here
-api_key = your-key-here 
+organization = your-openai-org-id
+api_key      = your-openai-api-key
 
 # https://elevenlabs.io
 [ElevenLabs]
-api_key = your-key-here
+api_key  = your-elevenlabs-api-key
 voice_id = VR6AewLTigWG4xSOukaG
+
+[NewsFeeds]
+primary            = https://feeds.npr.org/1001/rss.xml
+secondary          = https://www.chicagotribune.com/arcio/rss/category/news/?query=display_date:[now-1d+TO+now]&sort=display_date:desc
+primary_articles   = 3
+secondary_articles = 2
+
+[MarketReport]
+ticker = GOOG

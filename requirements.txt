@@ -1,0 +1,5 @@
+requests==2.31.0
+feedparser==6.0.10
+yfinance==0.2.18
+openai==0.27.7
+python-vlc==3.0.18122

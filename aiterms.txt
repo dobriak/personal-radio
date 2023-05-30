@@ -1,0 +1,177 @@
+A/B Testing
+Accuracy
+Action
+Actionable Intelligence
+Activation Function
+Active Learning
+Adam Optimizer
+Adversarial Autoencoder
+Adversarial Machine Learning
+Agent
+AI Ethics
+AI Framework
+Algorithm
+Annotation
+Anomaly detection.
+Application Programming Interface (API)
+Area Under the Curve
+Artificial General Intelligence (AGI)
+Artificial Narrow Intelligence (ANI)
+Artificial Neural Network (ANN)
+Association Rule Learning
+Audio Synthesis
+Auto-classification
+Auto-regressive Models
+Autoencoder
+Automated Speech Recognition
+Autonomy
+Autoregressive Generative Models
+Backpropagation
+Backward chaining
+Bagging
+Batch
+Bayesian networks
+BERT
+Bias
+Bias-Variance Tradeoff
+Biases
+Big data
+BigGAN
+Bloom
+Boosting
+Bounding box
+Brute force search
+Chatbots
+ChatGPT
+Classification
+Clustering
+Cognitive Computing
+Collaborative Filtering
+Computer Vision
+Confidence Interval
+Convolutional Neural Network (CNN)
+Corpus
+Cross Validation
+CycleGAN
+DALL-E 2
+Data Discovery
+Data Extraction
+Data Ingestion
+Data Labelling
+Data Scarcity
+Deep Convolutional GAN (DCGAN)
+Deep Learning
+Descriptive Analysis
+Deterministic
+Diffusion Probabilistic Models
+Dimensionality Reduction
+Discriminative Model
+Discriminator
+Energy Based Models
+Ensemble methods
+Entity Annotation
+Entity Extraction
+Environment
+Epoch
+F-Score
+False Negative
+False Positive
+Feature
+Feature Learning
+Flow-based Generative Models
+Gated Recurrent Unit (GRU)
+Generative Adversarial Networks (GANs)
+Generative Adversarial Networks (GANs)
+Generative AI
+Generative Flow Networks (GFlowNets)
+Generative Latent Optimization (GLO)
+Generative Models for Images
+Generative Models for Text
+Generative Pre-trained Transformer (GPT)
+Generative Pre-training
+Generator
+Genetic algorithm
+GPT-1
+GPT-2
+GPT-3
+GPT-J
+GPT-Neo
+Gradient boosting
+Gradient Descent
+Hallucination
+Heuristic
+Hidden Layer
+Hyperparameters
+Image Segmentation
+Image Synthesis
+Image-to-Image
+Inference
+Inpainting
+Intelligent Process Automation (IPA)
+Intent
+K-nearest Neighbors
+Keras
+Label
+Latent Space
+Layer
+Learning Rate
+Least Squares GAN
+Long Short-Term Memory Networks
+Machine Learning
+Markov Chain
+Maximum Likelihood Estimation
+MidJourney
+Mode Collapse
+Model
+Model (Machine Learning)
+Monte Carlo
+Monte Carlo Tree Search
+Multi-Modal Learning
+Natural Language Processing
+Neuron
+Normalizing Flow Models
+Optimization
+Outpainting
+Output Layer
+Overfitting
+Parameter
+Policy
+Precision
+Predictive Analysis
+Principle Component Analysis (PCA)
+Probability
+ProGAN
+Prompt Engineering
+PyTorch
+Q-function
+Q-Learning
+Recurrent Neural Network (RNN)
+Reinforcement Learning
+Reinforcement Learning from Human Feedback (RLHF)
+Reward
+SARSA
+Score-Based Models
+Sequence Based Models
+Simluation
+Stable Diffusion
+State
+State of the Art (SOTA)
+Stochastic
+Style Transfer
+StyleGAN
+Synthetic Data
+Synthetic Reality
+TensorFlow
+Testing
+Text-to-Image
+Text-to-Video
+Training
+Transformers
+Value Function
+Variance
+Variational Autoencoders (VAEs)
+Video Synthesis
+Vision Transformer (ViT)
+Voice Synthesis
+Wasserstein GAN (WGAN)
+Weights
