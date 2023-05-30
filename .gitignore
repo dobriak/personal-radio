@@ -164,3 +164,6 @@ news/
 
 # Config file
 personal-radio.ini
+
+# VS Code
+.vscode/
