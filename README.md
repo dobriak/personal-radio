@@ -44,6 +44,7 @@ python3 vlc_news.py
 ```
 Then in another terminal, run the news gathering / processing program. It will create an mp3 file with your news and deposit it into the `news_dir` directory. The vlc control program will then detect it and insert into the stream automatically.
 ```
+source venv/bin/activate
 python3 get_content.py
 ```
 
